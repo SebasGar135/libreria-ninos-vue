@@ -1,8 +1,8 @@
 <template>
-  <nav style="display: flex; align-items: center; justify-content: space-between; padding: 1rem; background: #D18971; box-shadow: 0 2px 4px #0001;">
+  <nav style="width: 100%; left: 0; top: 0; position: fixed; display: flex; align-items: center; justify-content: space-between; padding: 1rem; background: #D18971; box-shadow: 0 2px 4px #0001;">
     <div style="display: flex; align-items: center;">
 
-      <img src="/logo.png" alt="Logo" style="height: 40px; margin-right: 10px;" />
+      <img src="/logo.png" alt="Logo" style="cursor:pointer; height: 20px; margin-right: 10px;" />
 
     </div>
     <div style="display: flex; align-items: center; gap: 1.5rem;">
